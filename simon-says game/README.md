@@ -1,11 +1,6 @@
 # Simon says game
 This game is a very popular memory game called "simon says". where the user repeat the sequence of colors until they fail to remember the sequence.
 
-## Table of contents 📋
-- [Features](#features-)
-- [How to Play](#how-to-play-)
-- [Technologies Used](#Technologies-used-)
-
 ## Features ✨
 - ✅ Easy to use
 - 🎨 Minimal design 
