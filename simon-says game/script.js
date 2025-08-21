@@ -22,7 +22,7 @@ for(btn of btns) {
     btn.addEventListener('click', btnpress);
 }
 
-
+//function to increase game level
 function levelUp() {
     Userseq = [];
     level++;
@@ -35,6 +35,7 @@ function levelUp() {
     
 }
 
+//function for blinking of btn
 function btnblink (currbtn) {
     
     currbtn.classList.add("flash");
@@ -44,6 +45,7 @@ function btnblink (currbtn) {
     },100);
 }
 
+//user button press function
 function btnpress() {
     // console.log("button was pressed");
 
@@ -56,7 +58,7 @@ function btnpress() {
         
     }
     
-
+//matching of user and randomly generated colors
 function Match(indx) {
    
     if(gameseq[indx] === Userseq[indx]) {
@@ -84,6 +86,7 @@ function Match(indx) {
  
 }
 
+//reseting the game after you loose
 function reset() {
     gamestart = false;
     level  = 0;
@@ -91,6 +94,7 @@ function reset() {
     Userseq = [];
 }   
 
+//function to keep track of your highestscore
 function highestscore() {
     
     for(n of scores ) {
