@@ -22,6 +22,9 @@ This game is a very popular memory game called "simon says". where the user repe
 - HTML  
 - CSS 
 
+## Screenshot
+(screenshot.png)
+
 
 
 
