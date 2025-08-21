@@ -23,7 +23,14 @@ This game is a very popular memory game called "simon says". where the user repe
 - CSS 
 
 ## Screenshot
-![Game screenshot](screenshot.png)
+Starting screen
+
+![Game screenshot](screenshot.png) 
+
+Game Over screen
+
+![Game screenshot](gameover.png)
+
 
 
 
