@@ -1,6 +1,7 @@
 # About the Project
-This is a spotify clone i have built 
+This is a mini-project of spotify clone.
 
-## Tech stack used
+## Tech stack used 🛠️
 - HTML
 - CSS
+
