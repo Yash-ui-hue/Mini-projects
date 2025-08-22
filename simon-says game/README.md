@@ -21,6 +21,7 @@ This game is a very popular memory game called "simon says". where the user repe
 ## Technologies Used 🛠️
 - HTML  
 - CSS 
+- Javascript
 
 ## Game Screenshots
 ### Starting screen:
