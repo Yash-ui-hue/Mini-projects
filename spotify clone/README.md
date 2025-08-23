@@ -5,3 +5,5 @@ This is a mini-project of spotify clone.
 - HTML
 - CSS
 
+## Video 
+![Demo](video.gif)
