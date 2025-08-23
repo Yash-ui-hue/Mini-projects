@@ -6,4 +6,4 @@ This is a mini-project of spotify clone.
 - CSS
 
 ## Video 
-![Demo](video.gif)
+![Demo](assets/video.gif)
