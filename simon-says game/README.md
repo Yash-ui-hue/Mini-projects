@@ -23,15 +23,8 @@ This game is a very popular memory game called "simon says". where the user repe
 - CSS 
 - Javascript
 
-## Game Screenshots
-### Starting screen:
-
-![Game screenshot](screenshot.png) 
-
-### Game Over screen:
-
-![Game screenshot](gameover.png)
-
+##  Demo Gameplay – Simon Says
+[![Watch the Demo](https://img.youtube.com/vi/c691s-rDdUY/hqdefault.jpg)](https://www.youtube.com/watch?v=c691s-rDdUY)
 
 
 
