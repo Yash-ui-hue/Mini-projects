@@ -24,7 +24,7 @@ This game is a very popular memory game called "simon says". where the user repe
 - Javascript
 
 ##  Demo Gameplay – Simon Says
--Click the video to watch on youtube : 
+-Click the image below to watch the demo : 
 
 [![Watch the Demo](https://img.youtube.com/vi/c691s-rDdUY/hqdefault.jpg)](https://www.youtube.com/watch?v=c691s-rDdUY)
 
