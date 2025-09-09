@@ -13,4 +13,9 @@ This is a mini-quora page built using Restful APIs.
 ### Frontend 
 - Html, css 
 
+# How you can fork this project?
+- Simply fork this project using "fork" 
+- NOTE: install all the dependenices required in the package.json 
+
+
 
