@@ -9,8 +9,8 @@ this is a mini-quora page built using Restful APIs.
 
 # Tech stack used 🛠️
 ### Backend
-Node.js , EJS, express
+#### Node.js , EJS, express
 ### Frontend 
-Html, css 
+#### Html, css 
 
 
