@@ -1,5 +1,5 @@
 # About the Project 📜
-## This is a mini-quora page built using Restful APIs.
+This is a mini-quora page built using Restful APIs.
 
 # Functionalities ✨
 - Create A new post.
