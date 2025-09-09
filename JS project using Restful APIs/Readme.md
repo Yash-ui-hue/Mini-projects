@@ -15,7 +15,7 @@ This is a mini-quora page built using Restful APIs.
 
 # How you can fork this project? 🔱
 - Simply fork this project using "fork" 
-- NOTE: install all the dependenices required in the package.json 
+- NOTE: install all the dependenices required in the package.json before running the server.
 
 
 
