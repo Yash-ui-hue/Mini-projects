@@ -1,0 +1,41 @@
+
+
+
+body {
+    background-color: rgb(189, 169, 189);
+}
+.progress-bar {
+    width:300px;
+    height: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: rgba(231, 216, 188, 0.596);
+    position: realtive;
+}
+
+@keyframes progress {
+    0% {width: 0%;} 
+    10% {width: 10%;}
+    20% {width: 20%;}
+    40% {width: 40%;}
+    50% {width: 50%;}
+    60% {width: 60%;}
+    70% {width: 70%;}
+    80% {width: 80%;}
+    90% {width: 90%;}
+    100% {width: 100%;}
+}
+.progress {
+    height: 100%;
+    width:0%;
+    border-radius: 10px;
+    background: linear-gradient(to right, rgb(128, 128, 153), rgb(206, 100, 100));
+    animation: progress 10s linear infinite;
+}
+/* pseudo elements and pseudo classes */
+
+
+
+
+
+
